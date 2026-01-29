@@ -40,6 +40,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Babialves/Babialves/output/snake.svg" alt="Snake animation" />
-
-###
