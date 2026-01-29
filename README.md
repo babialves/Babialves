@@ -1,4 +1,4 @@
-<h2 align="left">Beatriz Alves</h2>
+<h2 align="left">✨ Beatriz Alves</h2>
 
 ###
 
